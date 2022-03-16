@@ -1,0 +1,22 @@
+{
+  "name": "food-dist",
+  "version": "1.0.0",
+  "description": "My food site project (html, css, JS, JSON...);",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimasik1490/Food.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimasik1490/Food/issues"
+  },
+  "homepage": "https://github.com/dimasik1490/Food#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
